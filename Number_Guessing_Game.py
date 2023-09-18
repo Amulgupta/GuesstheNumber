@@ -49,7 +49,7 @@ def game():
       
   reply =  input("Do you want to play the game again? Type Y for yes and N for no. ").lower()
 
-  # Functionality to play endlessly.
+# Functionality to play endlessly.
 reply = input("Do you want to play the number guessing game? Type Y for yes and N for no. ").lower()
 
 while(reply == 'y'):
